@@ -430,7 +430,7 @@ export default function HomePage() {
               <Image src="/images/fuiid-logo.png" alt="FUIID Logo" width={50} height={50} className="rounded-lg" />
               <div>
                 <h1 className="font-serif font-bold text-xl text-primary">FUIID</h1>
-                <p className="text-xs text-muted-foreground">Fundación para el Desarrollo</p>
+                <p className="text-xs text-muted-foreground">Fundación para la Investigación e Inversión en Desarrollo</p>
               </div>
             </div>
             <div className="hidden md:flex items-center space-x-6">
