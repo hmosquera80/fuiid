@@ -1141,7 +1141,6 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">servicios@fuiid.org</p>
-                <p className="text-xs text-muted-foreground mt-1">mefadul2023@gmail.com</p>
               </CardContent>
             </Card>
 
